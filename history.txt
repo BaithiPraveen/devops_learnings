@@ -1,0 +1,10 @@
+    1  free -m
+    2  vagrant halt
+    3  exit
+    4  ls
+    5  exit
+    6  cd /vagrant
+    7  ls
+    8  touch sample{1..10}.txt
+    9  ls
+   10  history > history.txt
